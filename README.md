@@ -1,0 +1,3 @@
+# espresso-icons
+
+MIT License
